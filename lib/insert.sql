@@ -1,0 +1,8 @@
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Mr. Chocolate","20","M","Black","Happy",true)
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Rowdy","18","M","Black","Happy",true)
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Tabitha","19","F","Black","Happy",true)
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Sergeant Brown","26","M","Black","Happy",true)
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Melisaa","22","F","Black","Happy",true)
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Grinch","24","M","Black","Happy",true)
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Wendy","23","F","Black","Happy",true)
+INSERT INTO bears (name,age,sex,color,temperament,alive) VALUES ("Unnamed","0","F","Brown","Happy",true)
